@@ -1,9 +1,9 @@
 # Ping-Pong
-#Introduction
+# Introduction
 This Ping Pong game is a classic two-player game where players control paddles on opposite sides of the screen and try to hit the ball past each other to score points. The game features basic mechanics such as ball bouncing, score tracking, and speed adjustments as the game progresses.
-Features
-Two-player gameplay
-Real-time ball physics
+# Features
+Two-player gameplay  
+Real-time ball physics  
 Adjustable paddle and ball speed
 Score tracking
 How to Play
