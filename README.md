@@ -4,12 +4,12 @@ This Ping Pong game is a classic two-player game where players control paddles o
 # Features
 Two-player gameplay  
 Real-time ball physics  
-Adjustable paddle and ball speed
-Score tracking
-How to Play
+Adjustable paddle and ball speed  
+Score tracking  
+# How to Play
 The goal of the game is to score points by hitting the ball past your opponent's paddle. Players can move their paddles up and down to block the ball. The first player to reach 10 points wins the game.
 
-Controls
+# Controls
 Player 1 (Left Paddle):
 
 Move Up: W
